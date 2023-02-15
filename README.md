@@ -1,5 +1,4 @@
 # DigitalArtFrame
-
 This will turn and computer display into a Digital Art Frame. This is a small project I designed. It webscrapes the largest online art gallery for images and stores them on your device. It has option to display art information or fullscreen.
 
 I built this on a raspberry pi and a salvaged 10$ LCD screen.
